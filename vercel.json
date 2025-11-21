@@ -1,0 +1,9 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "env": {
+    "NEXT_PUBLIC_APP_NAME": {
+      "description": "Nom de l'application Medi+"
+    }
+  }
+}
