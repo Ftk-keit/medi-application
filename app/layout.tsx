@@ -10,9 +10,7 @@ export const metadata: Metadata = {
   title: 'mediPlus',
   description: '',
   generator: 'tim',
-  icons: {
-    icon: '/icon.svg',
-  },
+ 
 }
 
 export default function RootLayout({
