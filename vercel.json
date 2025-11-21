@@ -3,7 +3,8 @@
   "outputDirectory": ".next",
   "env": {
     "NEXT_PUBLIC_APP_NAME": {
-      "description": "Nom de l'application Medi+"
+      "description": "Nom de l'application Medi+",
+      "value": "Medi+"
     }
   }
 }
