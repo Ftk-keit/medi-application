@@ -1,9 +1,5 @@
 {
   "framework": "nextjs",
   "buildCommand": "pnpm build",
-  "installCommand": "pnpm install",
-  "outputDirectory": ".next",
-  "env": {
-    "NEXT_PUBLIC_APP_NAME": "Medi+"
-  }
+  "installCommand": "pnpm install"
 }
